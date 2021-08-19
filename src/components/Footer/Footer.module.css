@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footerLink {
+  color: inherit;
+}
+
+.footerLink:hover {
+  color: deeppink;
+}
+
